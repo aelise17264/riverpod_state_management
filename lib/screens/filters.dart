@@ -20,7 +20,7 @@ class FiltersScreen extends ConsumerWidget {
 //   var _vegetarianFilterSet = false;
 //   var _veganFilterSet = false;
 
-  @override
+  // @override
   // void initState() {
   //   super.initState();
     // state wide state from provider
